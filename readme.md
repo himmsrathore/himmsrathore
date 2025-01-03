@@ -2,11 +2,8 @@
 
 <img align="right" alt="" src="backend-show.png" width="350" height="350" />
 
-## My Backend Engineering Show
-- [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
-
 ### I'm a Developer, Teacher, and Researcher!
-- 🔭 I’m working as a Backend and infra Engineer with Typescript and Python.
+- 🔭 I’m working as a Backend and Infra Engineer with Typescript and Python.
 - 🌱 I’m currently learning Spring Boot & Go.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught more than 2k students.
@@ -118,7 +115,6 @@
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
     </td>
 </tr>
-    
 </table>
 
 <br />
@@ -132,6 +128,14 @@
 <a href="mailto:himmsrathore@gmail.com"><img src="https://img.shields.io/badge/-contact@himmsrathore?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/himmsrathore"><img src="https://img.shields.io/badge/-@himmsrathore?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/himmsrathore"><img src="https://img.shields.io/badge/-@himmsrathore?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+## Some Community Projects
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Awesome Python Projects**](https://github.com/saadhaxxan/Awesome-Python-Projects) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Learn_Machine_Learning_in_5_Months**](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed)  |
 
 ## Some Community Projects
 
