@@ -76,6 +76,8 @@ Here are some of my community projects and personal contributions:
 </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himmsrathore&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
+
+---
 ## 📈 Stats
 
 ![Himms's GitHub stats](https://github-readme-stats.vercel.app/api?username=himmsrathore&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dracula)
