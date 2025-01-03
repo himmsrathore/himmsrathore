@@ -68,7 +68,14 @@ Here are some of my community projects and personal contributions:
 | [**Data-Visualization-Projects**](https://github.com/himmsrathore/Data-Visualization-Projects) | Various data visualization projects and analyses in Python using Power BI, Plotly, and more. |
 
 ---
+<h2><i>⚙️ GitHub Analytics</i></h2>
 
+<p align="center">
+<a href="https://github.com/himmsrathore">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himmsrathore&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himmsrathore&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
 ## 📈 Stats
 
 ![Himms's GitHub stats](https://github-readme-stats.vercel.app/api?username=himmsrathore&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dracula)
