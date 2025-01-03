@@ -63,8 +63,8 @@ Here are some of my community projects and personal contributions:
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| [**Awesome Python Projects**](https://github.com/saadhaxxan/Awesome-Python-Projects) | A collection of useful Python projects to learn from. |
-| [**Learn Machine Learning in 5 Months**](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months) | A roadmap to master Machine Learning in 5 months. |
+| [**Awesome Python Projects**](https://github.com//Awesome-Python-Projects) | A collection of useful Python projects to learn from. |
+| [**Learn Machine Learning in 5 Months**](https://github.com//Learn_Machine_Learning_in_5_Months) | A roadmap to master Machine Learning in 5 months. |
 | [**Data-Visualization-Projects**](https://github.com/himmsrathore/Data-Visualization-Projects) | Various data visualization projects and analyses in Python using Power BI, Plotly, and more. |
 
 ---
