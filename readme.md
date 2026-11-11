@@ -1,102 +1,146 @@
-# Hi there, I'm Himms 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Himms%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Data%20Analyst%20%7C%20Power%20BI%20%7C%20Data%20Visualization&descAlignY=58&descSize=18" alt="header" />
+</p>
 
-I'm a **Python Data Analyst** at **Indian Railway CRIS (Center for Railway Information Systems)**, living in **Mumbai**. Passionate about **Data Analytics**, **Power BI**, and **Data Visualization**, I enjoy transforming raw data into actionable insights and presenting it through intuitive visualizations.
+<p align="center">
+  <a href="https://github.com/himmsrathore">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insights+📊;Building+interactive+Power+BI+dashboards;ETL+pipelines+%7C+Python+%7C+Statistics;Data+Analyst+%40+Indian+Railways+CRIS+🚆" alt="Typing SVG" />
+  </a>
+</p>
 
-### About Me:
-- 🔭 I’m currently working on **Data Analytics**, **Python**, and **Power BI** for the Indian Railways CRIS.
-- 🌱 I'm continuously learning new ways to improve my skills in **Data Visualization** and **Business Intelligence**.
-- 🎯 My goal is to use my skills in Python and Power BI to solve real-world challenges and contribute to better decision-making through data.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himmsrathore&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/📍%20Location-Mumbai,%20India-blue?style=flat" alt="location" />
+  <img src="https://img.shields.io/badge/💼%20Open%20to-Collaborate-success?style=flat" alt="open to collaborate" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack and Tools
+## 🧑‍💻 About Me
 
-<table width="100">
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmsrathore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+- 🚆 **Python Data Analyst** at **CRIS** — Centre for Railway Information Systems, Indian Railways
+- 🔭 Working on **Data Analytics**, **Python** and **Power BI** at scale
+- 🌱 Continuously sharpening my skills in **Data Visualization** & **Business Intelligence**
+- 🎯 Goal: solve real-world problems and drive better decisions through data
+- 💬 Ask me about **Pandas, Power BI, Plotly, ETL pipelines**
+- 📫 Reach me at **himmsrathore@gmail.com**
+
+<br clear="right" />
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Analysis**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+**Visualization & BI**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+**Big Data & ML**
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
+<table>
 <tr>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_BI_Logo_2020.svg/800px-Power_BI_Logo_2020.svg.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Matplotlib_logo.svg/180px-Matplotlib_logo.svg.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Seaborn_logo.svg" width="60">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Pandas_logo.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Plotly_logo.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Apache_Spark_logo.svg" width="60">
-    </td>
+<td width="80" align="center">🚆</td>
+<td>
+
+**Python Data Analyst** · *Indian Railways — CRIS* · Mumbai
+`March 2023 – Present`
+
+- 🔄 Build **data pipelines** and run **ETL** operations on large-scale railway datasets
+- 📊 Design interactive **Power BI** dashboards and reports for management & stakeholders
+- 🎨 Communicate insights visually with **Matplotlib**, **Seaborn** and **Plotly**
+- 🧮 Perform analysis & statistical modelling with **Pandas**, **NumPy** and **SciPy**
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 💼 Work Experience
+## 🚀 Featured Projects
 
-### **Python Data Analyst**  
-**Indian Railway CRIS (Center for Railway Information Systems)** | Mumbai  
-*March 2023 – Present*
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Developing data pipelines and performing ETL operations to gather insights from large datasets.
-- Creating interactive dashboards and reports in **Power BI** for management and stakeholders.
-- Implementing data visualization techniques using **Matplotlib**, **Seaborn**, and **Plotly** to highlight key insights.
-- Leveraging **Python** libraries (like **Pandas**, **NumPy**, and **SciPy**) to perform data analysis and statistical modeling.
+### 🐍 [Awesome Python Projects](https://github.com/himmsrathore/Awesome-Python-Projects)
+A curated collection of practical Python projects to learn from.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 [Learn ML in 5 Months](https://github.com/himmsrathore/Learn_Machine_Learning_in_5_Months)
+A structured roadmap to master Machine Learning in 5 months.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 [Data Visualization Projects](https://github.com/himmsrathore/Data-Visualization-Projects)
+Visualization projects & analyses using Python, Power BI, Plotly and more.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Projects and Contributions
-
-Here are some of my community projects and personal contributions:
-
-| **Project** | **Description** |
-|-------------|-----------------|
-| [**Awesome Python Projects**](https://github.com//Awesome-Python-Projects) | A collection of useful Python projects to learn from. |
-| [**Learn Machine Learning in 5 Months**](https://github.com//Learn_Machine_Learning_in_5_Months) | A roadmap to master Machine Learning in 5 months. |
-| [**Data-Visualization-Projects**](https://github.com/himmsrathore/Data-Visualization-Projects) | Various data visualization projects and analyses in Python using Power BI, Plotly, and more. |
-
----
-<h2><i>⚙️ GitHub Analytics</i></h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/himmsrathore">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himmsrathore&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himmsrathore&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himmsrathore&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=himmsrathore&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-## 📈 Stats
-
-![Himms's GitHub stats](https://github-readme-stats.vercel.app/api?username=himmsrathore&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dracula)
-
----
-
-## 🤝🏻 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/himmsrathore"><img src="https://img.shields.io/badge/-himmsrathore?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:himmsrathore@gmail.com"><img src="https://img.shields.io/badge/-himmsrathore@gmail.com?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/himmsrathore"><img src="https://img.shields.io/badge/-@himmsrathore?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/himmsrathore"><img src="https://img.shields.io/badge/-@himmsrathore?style=flat&logo=Facebook&logoColor=white" /></a>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=himmsrathore&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Current Goals
 
-- Contribute more to open-source projects, especially in **Data Science** and **Business Intelligence**.
-- Continue expanding my knowledge of **Machine Learning** and **Data Analytics**.
-- Build more interactive **Power BI dashboards** and contribute to **Data Science communities**.
+- [ ] Contribute more to open-source **Data Science** & **BI** projects
+- [ ] Go deeper into **Machine Learning** and advanced analytics
+- [ ] Publish more interactive **Power BI dashboards**
+- [ ] Share learnings with the **Data Science community**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himmsrathore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:himmsrathore@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/himmsrathore"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/himmsrathore"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+</p>
