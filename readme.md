@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Turning raw data into actionable insights" />
+  <img src="./typing.svg" alt="Turning raw data into actionable insights" />
 </p>
 
 <p align="center">
