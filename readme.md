@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/himmsrathore">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insights+📊;Building+interactive+Power+BI+dashboards;ETL+pipelines+%7C+Python+%7C+Statistics;Data+Analyst+%40+Indian+Railways+CRIS+🚆" alt="Typing SVG" />
-  </a>
+  <img src="./assets/typing.svg" alt="Turning raw data into actionable insights" />
 </p>
 
 <p align="center">
@@ -19,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmsrathore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img align="right" width="360" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 
 - 🚆 **Python Data Analyst** at **CRIS** — Centre for Railway Information Systems, Indian Railways
 - 🔭 Working on **Data Analytics**, **Python** and **Power BI** at scale
@@ -112,12 +110,16 @@ Visualization projects & analyses using Python, Power BI, Plotly and more.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himmsrathore&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=himmsrathore&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution graph" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=himmsrathore&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="48%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=himmsrathore&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
